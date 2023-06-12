@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebAPI",
+    "\\WebAPI\\Controllers",
+    "\\WebAPI\\Models",
+    "\\WebAPI\\Properties"
+  ],
+  "SelectedNode": "\\WebAPI\\Models\\DonationDBContext.cs",
+  "PreviewInSolutionExplorer": false
+}
