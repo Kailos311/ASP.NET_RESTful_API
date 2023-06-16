@@ -6,6 +6,6 @@
     "\\WebAPI\\Models",
     "\\WebAPI\\Properties"
   ],
-  "SelectedNode": "\\WebAPI\\Models\\DonationDBContext.cs",
+  "SelectedNode": "\\WebAPI\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }
